@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-
-<img align="left" alt="Sandeep's GitHub Stats" src="https://github.com/sandeep-prabhu/github-readme-stats" />
-
-
